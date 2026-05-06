@@ -7,3 +7,5 @@ custom_azure.py
 *.xlsx
 *.ss
 *.xls
+/data
+/Output
