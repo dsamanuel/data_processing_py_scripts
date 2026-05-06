@@ -9,3 +9,4 @@ custom_azure.py
 *.xls
 /data
 /Output
+/logs
