@@ -1,0 +1,8 @@
+.env
+/scripts
+/__pycache__
+custom_azure.py
+*.csv
+*.json
+*.xlsx
+*.ss
