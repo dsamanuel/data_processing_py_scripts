@@ -6,3 +6,4 @@ custom_azure.py
 *.json
 *.xlsx
 *.ss
+*.xls
