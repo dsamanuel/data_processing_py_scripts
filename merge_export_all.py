@@ -7,6 +7,7 @@ import read_fu_dc
 import read_fu_audit
 from pathlib import Path
 
+# This script merges all the datasets (profile, intraop, ward, fu_dc, fu_audit) into a single dataframe and exports it as a CSV file with a timestamp in the filename.
 df_p = read_profile.df_profile_nd
 df_i = read_intraop.df_intraop_nd
 df_w = read_ward.df_ward
